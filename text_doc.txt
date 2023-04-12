@@ -1,0 +1,306 @@
+## From Pencil to Interactive Displays [Isn't pencil interactive?]
+
+If I asked you how much is 10 * 3 you probably would be able to quickly say: "30!". No need for any great effort. However, if I asked you how much is 3498 * 2345 you probably would have some trouble answering it, but if I was to allow you to use pencil and paper you would have no problem and in a couple of minutes you would write down the numbers and get to the answer quickly.
+
+<img src="./images/math_Crop.gif"> </img>
+
+One could say that pencil and paper are augmenting you in a certain way. By augmenting I mean, increasing the range of thoughts and operations you can  perform. This allows you to focus on small parts of the problem at a time and eventually come up with the right answer.
+
+Note that you are still using your mind and making some mental effort, however the energy used to perform such effort is greatly reduced with the help of pencil and paper. Today, the technologies that we have access to do a tremendous job in outsourcing our mental capabilities so that we don't have to make efforts to discover things, we google to find answers in seconds, we use calculators to perform tasks that would be too hard for us to do, and many other examples. But, when it comes to technologies that work with us to augment our capabilities, in that sense I would argue that we don't have as much richness and diversity as we do in the outsourcing department.
+
+__The point is not to criticize any of such technologies per say [per se], one could even make the point that something like googling more augments our capabilities than outsources them. No, I want to write this essay to argue for the need for a different kind of technology, one that it's in a way like a interactive and evolved version of pencil and paper which takes our human capabilities in mind and augments our abilities to think and solve problems.__
+
+### What is a representation?
+
+Now, the cool thing about the pencil example, is that we get a sense for the value of what we usually call: "representations". The number is a representation, the plus sign is another, etc...
+Representations shape how we understand the world, and they are heavily dependent on the media they are expressed on. For instance, its very hard to represent temporal dynamics meaningfully on pencil and paper, one could write axis with a "t" on it, but it would not be the same as having something that actually is dynamic. Something moving, something that has behavior in time. Off course people are creative and there are ways to get around this, but my point is that pencil and paper are limited in the kind of representations they allow as is an other medium.
+
+<span style="color: red"> Add visual</span> 
+
+When I say representation here I will specifically mean data structures and program-like structures that we can use to generate insight. This definition is not mine and actually belongs to one of my favorite technologists, Brett Victor. I highly recommend that you watch his lecture: ["The Human Representation of Thought"](https://vimeo.com/115154289).  
+
+Representations are important, they are the mental tools we can use, develop and manipulate to build complex understanding about the world. However, as I said before they are highly dependent on the medium they are expressed on, and although such mediums can be rich and diverse, they can also be constraining. We can think of mediums like pencil and paper like a microscope for our mind, it allows you to see things you were not able to see before by reducing the burden on our short term memory through the use of rich representations. Just as with the microscope we can see things we were not able to see before, with good thinking mediums we are able to think stuff we were not able to think before. They enhance us through the facilitation of access to rich representations that we can work together with it to gather insight, and solve problems and think about it things in detail.  Working with such mediums broads the range of thoughts we can have just like a microscope broads the range of things we can see. ***[2 pontos de reflexão: i) Você pode decidir se é interessante ou não mencionar o mito do Protágoras (reflexão sobre a relação entre antropologia - o que é ser humano - e a tecnologia) do Platão, segundo o qual as qualidades dos animais foram distribuídas por Prometeo no momento da criação das espécies - eg. garras aos felinos, asas aos pássaros etc. - mas a humanidade foi esquecida e acabou sendo criada 'nua e frágil'. Para compensar a falta de qualidades distintivas na natureza humana, Prometeo deu a humanidade o controle sobre o fogo - isto é a técnica. Então filosoficamente há uma tradição, pelo menos desde Platão, de associar a técnica como característica distintiva da humanidade de se utilizar de meios para superar a própria fragilidade / limitações da espécie; e ii) a técnica nos ajuda a encontrar novos significados porque ela permite a organização de informações em novos signos/significantes? vale a pena mencionar distinção de significante e significado? ]***
+
+Such representations are shared across culture (things like numbers and equations are widely used in our culture to do math for example). These mental tools are important, they are the backbone of our ability to think complicated things. Take this example for instance, imagine you are at home and you want to get to a certain restaurant. So you open your smartphone and you type on GoogleMaps the address to your restaurant of choice and the app shows you the way. However, the app only goes so far. Now that you have the map in front of you its up to you to decode what those images and indications mean to get to your location. Because you know what they mean and you can quickly navigate these directional representations, you can get to your destination easily. Can you imagine how harder would it be if instead of showing maps with images and arrows for example, the app was to show you only a verbal description of how to get to your destination frmo where you are?
+
+<span style="color: red"> Add google maps images</span> 
+<span style="color: red"> Add a text description of how to get to a restaurant super close to me</span> 
+
+AS you can see from the image above it is so much more work! Why? Because there are such things as good and bad representations. In this case maps with arrows are good representations to guide people toward a certain location. Text in this case are not. One can say that maps are appropriate representations for direction information.  However if we were discussing history or philosophy, doing it with maps would probably not work as well. WE would probably loseinformation that written language could offer to describe difficult and abstract concepts.  One will use maps for guiding people and use words to explain existentialism and the dreadful pain of existence. [talvez uma boa anedota seja o exemplo que o Sartre dá: se pensarmos se o ônibus existe ou não na hora de apanhá-lo, perderemos o ônibus. Outra ideia é a concepção de 'informação' no direito do consumidor: o consumidor tem direito a saber, por exemplo, a composição de um remédio que vai comprar - por isso existem as bulas. Porém, o direito especifica que não pode ser 'pouca' (omitir parte da composição) 'nem muita' (descrever a composição em nível físico-químico incompreensível para não-cientistas) informação: deve ser a quantidade de informação correta! Rsrs Acho engraçado mas interessante essa tentativa de estimar quanta informação é a informação correta. Talvez o termômetro seja: informação suficiente para tomada de decisão.]
+
+<span style="color: red"> Add funny image of sartre with googlemaps </span>
+
+The main point here is to understand that mediums and representations should be appropriate for the problem, task or proess at hand and using the wrong medium or wrong representations will naturally hinder our ability to go further within that task or process. When it comes to thinking about things, for some accident of history we have stayed with language and writing as the main channel through which we represent thoughts and communicate ideas. However, as technology evolved we now have the unique opportunity in history to reconsider our forced choices and evolve from these rectangle boxes we use to do all of our knowledge work. Knoweldge work does not have to be this constraining and physically limitating process of typing and clicking. It should involved movement and harness all of our amazing human capabilities as Brett Victor argues in the lecture I mentioned above. [Aqui talvez haja explicações do tipo de limitação técnica dos meios de produção - por exemplo, talvez formas geométricas simples tenham sido mais fáceis historicamente de transformar em máquinas padronizadas para produção de bens industriais. Não necessariamente tinha-se como ideal a forma retangular de um caderno, mas talvez a tecnologia para formatos variados fosse mais complexa/cara/indisponível]
+
+__The goal of this essay is to to argue for the importance of a a dynamics thinking medium that takes into account the diverse and marvelous range of abilities of our human condition. One that takes advantage of all of our capabilities to represent the thoughts and solve problems.__ [All our capabilities significa 'All our conscious capabilities' ou mesmo inconscientes?]
+
+<span style="color: red"> Make both paragraphs 2 or 3 lines </span> 
+
+## Thinking Through Representations
+
+Representations directly influence how we think.
+
+When you thnk about math you probably think of this:
+
+![image.png](attachment:image.png)
+
+[source](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdepositphotos.com%2F87771412%2Fstock-photo-rear-view-of-young-professional.html&psig=AOvVaw3eUPLjQyCUxnHNsLYhL8Gn&ust=1612010241027000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMig3aGUwe4CFQAAAAAdAAAAABAD)
+
+
+Complicated symbolic equations on a big whiteboard.
+
+This idea of math existing solely on the realm of symbols is a byproduct of an evolution of mathematical notation. Imagine this:
+
+The square root of a number
+
+and this:
+
+$x^2$
+
+
+Imagine writing down equations as in the first example. Today that would be unthinkable but there was a time when math was done through writing and not through the notation we are used to today. This is great because this simple and compact representation allows us to express more complicated equations without losing information. So the way we represent this greatly influences how we think about it. The representations we use have the power to shape our understanding, so considering carefully which representations to use is extremely important because it wil dictate the thoughts we can think!
+
+What this one examle shows is that representations are all about effective compression. They are all about taking complex structures and packaging them into something that displays the core ituition immediately. 
+
+## How people think
+
+Brett Victor brilliantly argues in this amazing presentation: "A Humane Representation of Thought" that today's mainstream mediums for thinking and solving problems: computers, tablets etc...are reductive, because they enphasize only a small subset of the range of modes of understanding that we human posssess. He comes from "Piagezian" [Jean Piaget](https://www.verywellmind.com/piagets-stages-of-cognitive-development-2795457#:~:text=Jean%20Piaget's%20theory%20of%20cognitive,stage%3A%20birth%20to%202%20years) perspective that we humans have the following modes of understanding: [apenas uma provocação: do ponto de vista físico, o único sentido que existe é o tato. A visão é o tato de células fotosensíveis sobre a luz, a audição é uma vibração do tímpano, o movimento e o espaço é uma deslocação de um corpo tátil etc.]
+
+- Visual
+- Aural
+- Tactile
+- Kinesthetic
+- Spatial
+
+
+![image.png](attachment:image.png)
+
+![image-2.png](attachment:image-2.png)
+
+The technologies we use constrain the majority of these modes, with media that accounts for only a subset focusing on visual and symbolic representations. [Entendo a reflexão sobre a tecnologia, mas será que a tecnologia limita a pedagogia ou as formas limitadas de pedagogia incentivaram uma criação limitada de meios técnicos de aprendizado? ou talvez há dupla causalidade? Dizer que a tecnologia 'constrange' o espectro da nossa experiência intelectual, sem considerar o constrangimento pedagógico anterior/simultâneo não é entrar em um tecno-centrismo da explicação?]
+We are constrained by visual and symbolic forms of knowing stuff, which is weird because we have so many capabilities and yet we are limited by these screens that don't account for the entire spectrum of thoughts we can think, we can type and draw and that is it! Better said by Victor: 
+
+> It contrains the range of our intelectual experience
+
+He defends the position of a dynamics medium, one that would span the entire set of human capabilities in a way that would free us rather that enslave us to these media consumption devices that we carry around all the time.
+
+Although I think that AR and VR could, under the right circunstamces, redefine part of this problem, his critique is unique because it puts in question how we think about knowledge work. 
+
+## Interactive Gradient Descent
+
+My goal with this essay is to discuss the importance of a new kind of medium for rich, diverse and dynamic thought expression. A tool for thinking. To do that only theoretically would not pay compliment to the goal, so to switch things up a bit I want to discuss elements of a possible problem solving system by exploring a topic central to deep learning (my area of work): gradient descent.
+
+Now if you are not familliarized with machine learning don't worry, I think that the things we will touch upon here are not going to be much more than marginal to make a point about the system rather tan get in deep into the topic. However I highly recommend this lecture by [Andrej Karpathy on optimization](https://www.youtube.com/watch?v=qlLChbHhbg4&ab_channel=AndrejKarpathy) and the notes you can find [here](https://cs231n.github.io/optimization-1/).
+
+The premises to start are a basic understanding of differential calculus. Beyond that I will assume that you understand the basic machine learning recipe of a set of inputs, an output of which we calculate a loss that describes how well we are doing and that from which we can compute what we call partial derivatives or gradients that will dictate how we update our weights to guide our model toward a local minimum on the loss function.
+
+- Iterative refinement (small steps)
+- What is a Gradient
+- Finding the minimum of a loss
+- Effect of step size
+- Drawing loss surface in 2D and 3D
+- Weight space visualization
+
+<span style="color: red"> FINISH THIS PART FIRST </span> 
+
+
+
+Here we are talking about optimization. 
+
+> To reiterate, the loss function lets us quantify the quality of any particular set of weights W. The goal of optimization is to find W that minimizes the loss function. We will now motivate and slowly develop an approach to optimizing the loss function. 
+
+
+### A first dumb approach: random search
+
+
+```python
+import warnings
+warnings.filterwarnings("ignore")
+# %matplotlib widget
+%matplotlib inline
+import ipywidgets as widgets
+import matplotlib.pyplot as plt
+import numpy as np
+import seaborn as sns
+sns.set()
+
+
+def L(x,y,w):
+    y_hat = w*x
+    error = (y - y_hat)
+    loss = (1/len(x)) * np.sum(np.square(error))
+    return loss,y_hat
+
+def plotRandomSearch(numEpochs):
+    bestloss = float("inf") # Python assigns the highest possible float value
+    bestlossList = []
+    loss = []
+    X_train = np.random.rand(1000,1)
+    Y_train = 2*X_train
+    X_test = np.random.rand(100,1)
+    Y_test = (2*X_test).ravel()
+    for num in range(numEpochs):
+        W = np.random.randn(1, 1) * 0.0001 # generate random parameters
+        l,y_hat = L(X_train, Y_train, W)
+        loss.append(l) # get the loss over the entire training set
+        if loss[-1] < bestloss: # keep track of the best solution
+            bestloss = loss[-1]
+            bestW = W
+        bestlossList.append(bestloss)
+    
+    print("Best Loss for this training: {}".format(bestloss))
+    epochs = list(range(numEpochs))
+    plt.plot(epochs,loss)
+    plt.plot(epochs,bestlossList,label="Best loss across random search epochs")
+    
+
+widgets.interact(plotRandomSearch, numEpochs=1000);    
+```
+
+
+    interactive(children=(IntSlider(value=1000, description='numEpochs', max=3000, min=-1000), Output()), _dom_cla…
+
+
+Core idea: iterative refinement. Of course, it turns out that we can do much better. The core idea is that finding the best set of weights W is a very difficult or even impossible problem (especially once W contains weights for entire complex neural networks), but the problem of refining a specific set of weights W to be slightly better is significantly less difficult. In other words, our approach will be to start with a random W and then iteratively refine it, making it slightly better each time.
+
+<span style="color: red"> visual to showcase the difference between random search and the iterative refinement approach</span>
+
+Blindfolded hiker analogy. One analogy that you may find helpful going forward is to think of yourself as hiking on a hilly terrain with a blindfold on, and trying to reach the bottom
+
+__Random Local Search__ <span style="color: red"> Implement?</span> 
+
+### Strategy #3: Following the Gradient
+
+> In the previous section we tried to find a direction in the weight-space that would improve our weight vector (and give us a lower loss). It turns out that there is no need to randomly search for a good direction: we can compute the best direction along which we should change our weight vector that is mathematically guaranteed to be the direction of the steepest descend (at least in the limit as the step size goes towards zero). This direction will be related to the gradient of the loss function. In our hiking analogy, this approach roughly corresponds to feeling the slope of the hill below our feet and stepping down the direction that feels steepest.
+
+
+
+>In one-dimensional functions, the slope is the instantaneous rate of change of the function at any point you might be interested in. The gradient is a generalization of slope for functions that don’t take a single number but a vector of numbers. Additionally, the gradient is just a vector of slopes (more commonly referred to as derivatives) for each dimension in the input space. The mathematical expression for the derivative of a 1-D function with respect its input is:
+
+![image.png](attachment:image.png)
+
+>When the functions of interest take a vector of numbers instead of a single number, we call the derivatives partial derivatives, and the gradient is simply the vector of partial derivatives in each dimension.
+
+<span style="color: red"> Discuss numerical and analytical gradient?</span> 
+
+[Practical considerations about calculating the numerical gradient.](https://cs231n.github.io/optimization-1/#computing-the-gradient-numerically-with-finite-differences:~:text=Practical%20considerations.%20Note%20that%20in%20the,random%20point%20in%20the%20weight%20space%3A)
+
+### Update in negative gradient direction
+
+### Effect of step size
+
+
+
+The gradient tells us the direction in which the function has the steepest rate of increase, but it does not tell us how far along this direction we should step.
+
+<span style="color: red">Add a visual for effect of step size </span> 
+![image.png](attachment:image.png)
+
+Numerical gradient is bad because it takes too long to evaluate, has linear complexity.
+
+### Gradient Descent
+Now that we can compute the gradient of the loss function, the procedure of repeatedly evaluating the gradient and then performing a parameter update is called Gradient Descent. Its vanilla version looks as follows:
+
+<span style="color: red"> A comment on stochastic gradient descent?</span> 
+
+
+
+### Bullet points covered about Gradient Descent
+
+![image.png](attachment:image.png)
+
+
+In this section,
+
+We developed the intuition of the loss function as a high-dimensional optimization landscape in which we are trying to reach the bottom. The working analogy we developed was that of a blindfolded hiker who wishes to reach the bottom. In particular, we saw that the SVM cost function is piece-wise linear and bowl-shaped.
+We motivated the idea of optimizing the loss function with iterative refinement, where we start with a random set of weights and refine them step by step until the loss is minimized.
+
+- We saw that the gradient of a function gives the steepest ascent direction and we discussed a simple but inefficient way of computing it numerically using the finite difference approximation (the finite difference being the value of h used in computing the numerical gradient).
+- We saw that the parameter update requires a tricky setting of the step size (or the learning rate) that must be set just right: if it is too low the progress is steady but slow. If it is too high the progress can be faster, but more risky. We will explore this tradeoff in much more detail in future sections.
+- We discussed the tradeoffs between computing the numerical and analytic gradient. The numerical gradient is simple but it is approximate and expensive to compute. The analytic gradient is exact, fast to compute but more error-prone since it requires the derivation of the gradient with math. Hence, in practice we always use the analytic gradient and then perform a gradient check, in which its implementation is compared to the numerical gradient.
+- We introduced the Gradient Descent algorithm which iteratively computes the gradient and performs a parameter update in loop.
+- Coming up: The core takeaway from this section is that the ability to compute the gradient of a loss function with respect to its weights (and have some intuitive understanding of it) is the most important skill needed to design, train and understand neural networks. In the next section we will develop proficiency in computing the gradient analytically using the chain rule, otherwise also referred to as backpropagation. This will allow us to efficiently optimize relatively arbitrary loss functions that express all kinds of Neural Networks, including Convolutional Neural Networks.
+
+## From Inadequacy to Understanding
+
+Ever since I was a kid, I felt a simultaneous fascination by theoretical topics like math and physics, however at the same time a dreadful feeling of inadequacy with regards to my true ability to pursue such topics. 
+
+Don't get me wrong, I was always a very good student, but to my own eye I felt that something was missing. A tool, a way to express what I was thinking in a natural and fast manner to allow me to play around with my thoughts without getting bored.
+This feeling pursued me my hole life, and things started to click for me on my masters when I got into deep learning and programming with python.
+From that moment on I was much more engaged, having this simple tool that could make my thoughts a reality in a speed that I never thought would be possible was life changing. I say this from the experience of someone who had handwritten java classes in his applied mathematics course and was a bit frustrated with programming as a tool for thinking.
+
+Although I was completely hooked and fascinated the feeling did not go away. Even tough now I could write programs that would make my thoughts came true faster than any other tool I had tried before, it was (it is) still not fast enough.
+
+Consider this simple example of trying to understand or visualize the derivative of 
+$$x^2$$
+
+Now anyone that knows the power rule knows that this derivative is:
+$$2 \cdot x$$
+
+But why? What is happening there? I don't want to get into details, so what I want to here is just to show how I would use my current tools to observe these behaviors and get to some satisfying conclusion about this relationship between a squared function and its derivative.
+
+My first step could be to draw this functions to get a sense for what is happening.
+
+<span style="color: red"> Insert the Desmos demo for showing the derivative</span> 
+
+My second step would be to go to my python ide, plot both functions along with some useful information on my terminal and see the static results. Let's see this workflow below (remembering that here I am not even talking about understanding, I just want to see some behaviors happening so I can get a better sense for what is going on):
+
+  
+
+<img src="./plottingDemo.gif"> </img>
+
+All of this code written in about 2 to 3 minutes (it's less but let's make a high estimate) to get this output:
+
+![image.png](attachment:image.png)
+
+At this point I have two questions: 
+
+1. How explanatory is this image?
+        Well, I am not a mathematician but not very.
+        It's telling me some restricted information about the behavior of these functions within a given range of points for the x-axis. But I can't see the meaningful    behaviors that tell the story of why $2x$ is the function describing the derivative of $x^2$. 
+
+2. Does the average time that it takes to generate a simple image like this makes this approach worth it?
+   
+
+I can only see some not very meaningful behavior. 
+
+I am sure there are better ways to get around this, but I think my leiman input here is valid not because I know a lot about math (which I really don't!) but because I know a lot about staring at things that look like this and not understanding what they are supposed to tell me.
+
+I think that these questions don't cover the entire ground I want to cover but they raise the concern that for such a low dimensional representation of this problem, the time it takes to get here makes it a non-ideal path to take if we are thinking about a tool to express thought (which is really fast and dynamic)
+
+Off course I could have generated better images or some approach that would tackle the core of derivatives more closely, however, from the perspective of someone trying to quickly visualize a relationship between functions and their derivatives it does not make sense to use a tool that is not thought out to be a thinking tool but a programming tool.
+
+However, in my opinion I think that today python is probably one of the closest things we have to a thinking tool on the general sense when compared to other 
+approaches, which begs the question of what could be better than this? 
+
+So maybe a better approach would be to use something like [desmos](https://www.desmos.com/calculator) particularly the graphing feature which makes it easy 
+to visualize any simple function in an interactive 2-dimensional grid.
+
+Le'ts see what that would look like.
+
+<span style="color: red"> Insert the Desmos demo for showing the derivative</span> 
+
+<span style="color: red"> Inset a section explaining why desmos offers access to representations and control over time etc.. and then also put a conclusion going from drawing to coding to desmos to....?</span> 
+
+<span style="color: red"> GRADIENT DESCENT LECTURES ?</span> 
+Now if you don't know what gradient descent is, I recommend you take a look at Andrej Karpathy's lecture [here](https://www.youtube.com/watch?v=qlLChbHhbg4&ab_channel=AndrejKarpathy)  and for the notes you can find them [here](https://cs231n.github.io/optimization-1/)
+
+# <span style="color: red"> Argument about taking notes </span> 
+
+Now, how do we achieve that with such a simple technology? The power of pencil and paper stems from allowing us to represent things, we use visual expressions of all sorts as I mentioned before to represent information in a way that makes it easy to describe and summarize information, we can compile complex thoughts and pieces of information into very compact representations. Pencil and paper are great tools for thought compression! <span style="color: red"> good quote!</span>. It's this compression capability that makes it a great companion for thinking. So much so that is has been show that if you take notes during a class you are more likely tho remember the material as oppopsed to not taking notes if if you don't review your notes later!
+
+Technology works by complimenting our limitations, by filling in the gaps when our short-term memory is not enough to handle a certain problem. [The biological limit of thinking is only a matter of short-term memory?]
+
+
+https://journals.sagepub.com/doi/10.1177/0956797614524581I would argue here that this is true because when you take notes, you engage with representatoins of the information you are trying to learn. That helps you learn more thatn if you were just to type mindlessly the notes from a lecture as shown in this [paper](https://journals.sagepub.com/doi/10.1177/0956797614524581) where they found people who took notes has dbetter performance than people who just typed their notes in a memory task. 
+
+There are many more examples of situations where we can argue for the value of taking notes, but the point here is to say that the value of taking notes lies in the representations that you interact with. <span style="color: red"> I need to evolve this argument adn add visuals </span> [Talvez aqui novamente entre a questão de quanta informação é a quantidade adequada]
+
+
+
+# <span style="color: red"> Argument of how you can create from images better than you could from symbols (like from language)</span> 
+
+### <span style="color: red"> I'm figuring this out as I go. One's ability to articulate an idea always lags behind the understanding of the idea, and the understanding of an idea often lags behind the embodiment in which it is first given life. It can take a surprising amount of time to come to understand what a prototype is trying to "say", and longer still to say it oneself.</span> [Não me lembro da referência, mas há um ditado filosófico que pergunta: o olho viu porque o espírito concebeu? em outras palavras, o reconhecimento de figuras depende de uma pré-conceitualização das mesmas?]
+
+### Put a final conclusion argument saying how Brett Victor lecture influenced you to redesign your work space. [Talvez haja alguma mulher cientista foda na área que tbm mereça ser citada?]
+
