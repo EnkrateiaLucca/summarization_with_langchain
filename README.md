@@ -22,7 +22,7 @@ To use the pdf_summarization_app.py script, follow these steps:
 
 - Run the script using the following command:
 
-```python pdf_summarization_app.py```
+  ```python pdf_summarization_app.py```
 
 - Open a web browser and navigate to http://localhost:7860/.
 
