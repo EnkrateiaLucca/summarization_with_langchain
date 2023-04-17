@@ -24,9 +24,11 @@ To use the pdf_summarization_app.py script, follow these steps:
 
 ```python pdf_summarization_app.py```
 
-Open a web browser and navigate to http://localhost:7860/.
-Enter the path to the PDF file and a custom prompt for summarization.
-Click the "Summarize" button to generate the summary and the "Custom Summarize" button to generate custom summary.
+- Open a web browser and navigate to http://localhost:7860/.
+
+- Enter the path to the PDF file and a custom prompt for summarization.
+
+- Click the "Summarize" button to generate the summary and the "Custom Summarize" button to generate custom summary.
 
 # Notebooks
 
