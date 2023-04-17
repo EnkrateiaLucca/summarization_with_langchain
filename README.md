@@ -35,4 +35,4 @@ To use the pdf_summarization_app.py script, follow these steps:
 This repository also contains two Jupyter notebooks entitled summarization_with_langchain.ipynb and talk_to_pdf_with_langchain.ipynb. These notebooks provide additional examples and functionality for summarizing PDF documents using natural language processing.
 
 # Credits
-This project was built using the gradio library and the langchain library. The langchain library was developed by Langchain, Inc. and the gradio library was developed by Gradio.
+This project was built using the [gradio](https://gradio.app/docs/) and [langchain](https://python.langchain.com/en/latest/) librairies.
