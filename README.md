@@ -10,7 +10,11 @@ To use the pdf_summarization_app.py script, follow these steps:
 
 ```git clone https://github.com/your_username/pdf_summarization_app.git```
 
-Install the required libraries using the following command:
+- Create the conda environment:
+
+```conda env create -f environment.yml```
+
+You can also just install the required libraries using the following command:
 
 ```pip install -r requirements.txt```
 
@@ -33,6 +37,12 @@ To use the pdf_summarization_app.py script, follow these steps:
 # Notebooks
 
 This repository also contains two Jupyter notebooks entitled summarization_with_langchain.ipynb and talk_to_pdf_with_langchain.ipynb. These notebooks provide additional examples and functionality for summarizing PDF documents using natural language processing.
+
+# Custom Summarization
+I added a specialized app to construct custom summaries.
+## Interactive Text Chunk Visualization
+I added a text chunk visualization for the summarization app:
+![](2023-06-12-12-07-40.png)
 
 # Credits
 This project was built using the [gradio](https://gradio.app/docs/) and [langchain](https://python.langchain.com/en/latest/) librairies.
