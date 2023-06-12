@@ -46,3 +46,14 @@ I added a text chunk visualization for the summarization app:
 
 # Credits
 This project was built using the [gradio](https://gradio.app/docs/) and [langchain](https://python.langchain.com/en/latest/) librairies.
+
+# TODOs
+- [x]  Add option to produce multiple summaries
+- [x]  Create github repo
+- [x]  Add custom summarization
+- [x]  Add interactive tool to debug chunk size
+- [ ]  Add a free option
+- [ ]  Add an option to estimate cost in the case of using paid API like ChatGPT
+- [ ]  Add token count option
+- [ ]  Add option to create summaries for multiple papers inside a folder
+- [ ]  Integrate map prompt and combine prompt
