@@ -45,7 +45,7 @@ I added a text chunk visualization for the summarization app:
 ![](2023-06-12-12-07-40.png)
 
 # Credits
-This project was built using the [gradio](https://gradio.app/docs/) and [langchain](https://python.langchain.com/en/latest/) librairies.
+This project was built using the [gradio](https://gradio.app/docs/), [langchain](https://python.langchain.com/en/latest/) and [streamlit](https://streamlit.io/) librairies.
 
 # TODOs
 - [x]  Add option to produce multiple summaries
