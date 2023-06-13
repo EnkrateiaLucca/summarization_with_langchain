@@ -46,6 +46,7 @@ I added a text chunk visualization for the summarization app:
 
 ### Running the custom summarization app
 Just run:
+
 ```streamlit run ./custom_summarization_app.py```
 
 # Credits
