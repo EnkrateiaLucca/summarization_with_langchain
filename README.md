@@ -44,6 +44,10 @@ I added a specialized app to construct custom summaries.
 I added a text chunk visualization for the summarization app:
 ![](2023-06-12-12-07-40.png)
 
+### Running the custom summarization app
+Just run:
+```streamlit run ./custom_summarization_app.py```
+
 # Credits
 This project was built using the [gradio](https://gradio.app/docs/), [langchain](https://python.langchain.com/en/latest/) and [streamlit](https://streamlit.io/) librairies.
 
