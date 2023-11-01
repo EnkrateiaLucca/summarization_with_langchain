@@ -3,9 +3,9 @@ transformers>=4.19.0
 tensorflow
 lxml>=4.0
 openai
-tiktoken
 langchain
 chromadb
 pypdf
 gradio
 streamlit
+--tiktoken
